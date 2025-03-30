@@ -1,0 +1,18 @@
+{
+  "author": "",
+  "name": "emcee",
+  "description": "A bridge between the M and C bits of MVC",
+  "version": "0.0.4",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/drylikov/emcee.git"
+  },
+  "main": "emcee.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "devDependencies": {
+    "tap": "^1.2.0"
+  },
+  "license": "ISC"
+}
